@@ -6,9 +6,9 @@ Transaction data for  Plaid Standbox Institution ID 109508 was pulled and transa
 
 The largest categories were Transfers with $20,537 and Payments with $6,310 in total spending over the 90 day period. See below:
 
-![Spending_Pie_Chart]{Images\Budget_Total_Spending_Per_Category.jpg}
+![Spending_Pie_Chart](Images\Budget_Total_Spending_Per_Category.jpg)
 
-![Spending Table]{Images\Expense_Table.jpg}
+![Spending Table](Images\Expense_Table.jpg)
 
 Plaid's projected annual income is $6,085.
 
@@ -16,7 +16,7 @@ Plaid's projected annual income is $6,085.
 
 Monte Carlo simulation was completed on a portoflio of two equities (SPY and AGG) with a respective 60/40 split.  500 simulations were completed to project the portfolio value for the next 30 years.
 
-![Simulation_Image]{Images\Monte_Carlo_Simulation.jpg}
+![Simulation_Image](Images\Monte_Carlo_Simulation.jpg)
 
 Expected cumulative returns for $1 invested over 30 years:
 - 10th percentile = 119.03
